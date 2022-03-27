@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.13.8
 
 RUN apk --update --no-cache add \
 	nodejs \
